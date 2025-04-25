@@ -1,0 +1,35 @@
+# Dependências do Maven
+/.mvn/
+target/
+*.log
+
+# Diretórios do IntelliJ IDEA
+.idea/
+
+# Diretórios do Eclipse
+/.settings/
+/bin/
+/target/
+
+# Diretórios do NetBeans
+/nbproject/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de ambiente
+/.env
+
+# Arquivos de configuração do Spring Boot
+spring-boot-devtools.jar
+
+# Arquivos de build do Gradle
+.gradle/
+/build/
+
+# Arquivos de configuração do Maven
+*.iml
+
+# Arquivos de log
+*.log
