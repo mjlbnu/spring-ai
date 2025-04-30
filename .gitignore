@@ -1,0 +1,34 @@
+# Ignorar arquivos e configurações do IntelliJ IDEA
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Ignorar arquivos de ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignorar arquivos de configuração de aplicação que podem conter segredos
+application.properties
+application.yml
+application-dev.properties
+application-prod.properties
+
+# Ignorar diretórios de build e temporários
+/out/
+/build/
+/target/
+
+# Ignorar arquivos de log e temporários
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignorar arquivos específicos de sistema operacional
+.DS_Store
+Thumbs.db

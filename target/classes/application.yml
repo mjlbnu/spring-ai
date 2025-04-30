@@ -1,4 +1,6 @@
 spring:
+  application:
+    name: spring-ai-programadorbr
   ai:
     openai:
-      api-key: ${OPENAI-API-KEY}
+      api-key: ${OPENAI_API_KEY}
