@@ -1,6 +1,6 @@
 # Ignorar arquivos e configurações do IntelliJ IDEA
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
